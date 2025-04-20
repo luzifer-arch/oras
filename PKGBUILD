@@ -2,7 +2,7 @@
 # Contributor: JayceCao <jaycecao520@gmail.com>
 
 pkgname=oras
-pkgver=1.2.0
+pkgver=1.2.0 # renovate: depName=oras-project/oras datasource=github-releases
 pkgrel=1
 pkgdesc='A command line tool that allows you to push and pull files from any OCI registry'
 arch=(x86_64)
