@@ -10,7 +10,7 @@ url='https://github.com/oras-project/oras'
 license=(MIT)
 makedepends=('go' 'git')
 source=("$pkgname-${pkgver}.tgz::https://github.com/oras-project/oras/archive/refs/tags/v${pkgver}.tar.gz")
-sha256sums=('1f3fc661c90cfb48b4b0e6ef4817b86b28c784186ab0da1a778809938899f574')
+sha256sums=('09436b3048aab42fdfd5662f71da7d211f9d6e7ce66740cbbd8f3695ae621f6a')
 
 build() {
   # Flags to trim path from binary
