@@ -1,4 +1,5 @@
-*
-!.gitignore
-!PKGBUILD
-!renovate.json
+/*
+!/.gitignore
+!/PKGBUILD
+!/renovate.json
+!/.forgejo
